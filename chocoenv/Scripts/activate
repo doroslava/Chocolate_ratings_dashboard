@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\dora\Desktop\Udacity\Assignment1\Udacity_Assignment_1\chocoapp\chocoenv"
+VIRTUAL_ENV="C:\Users\dora\Desktop\Udacity\Dashboard\chocoapp\chocoenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

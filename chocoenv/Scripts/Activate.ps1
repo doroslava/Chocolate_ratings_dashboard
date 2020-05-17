@@ -27,7 +27,7 @@ function global:deactivate ([switch]$NonDestructive) {
 
 deactivate -nondestructive
 
-$env:VIRTUAL_ENV="C:\Users\dora\Desktop\Udacity\Assignment1\Udacity_Assignment_1\chocoapp\chocoenv"
+$env:VIRTUAL_ENV="C:\Users\dora\Desktop\Udacity\Dashboard\chocoapp\chocoenv"
 
 if (! $env:VIRTUAL_ENV_DISABLE_PROMPT) {
     # Set the prompt to include the env name
